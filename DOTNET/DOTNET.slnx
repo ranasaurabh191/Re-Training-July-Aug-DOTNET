@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Day1/">
+    <Project Path="BMICalculator/BMICalculator.csproj" />
+    <Project Path="RetailBillingSystem/RetailBillingSystem.csproj" />
+  </Folder>
+</Solution>

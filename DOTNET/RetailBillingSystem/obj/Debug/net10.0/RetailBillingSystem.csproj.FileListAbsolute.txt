@@ -1,0 +1,14 @@
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\bin\Debug\net10.0\RetailBillingSystem.exe
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\bin\Debug\net10.0\RetailBillingSystem.deps.json
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\bin\Debug\net10.0\RetailBillingSystem.runtimeconfig.json
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\bin\Debug\net10.0\RetailBillingSystem.dll
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\bin\Debug\net10.0\RetailBillingSystem.pdb
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.AssemblyInfoInputs.cache
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.AssemblyInfo.cs
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.csproj.CoreCompileInputs.cache
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.dll
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\refint\RetailBillingSystem.dll
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.pdb
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\RetailBillingSystem.genruntimeconfig.cache
+D:\Practice Programs\.NET\DOTNET\RetailBillingSystem\obj\Debug\net10.0\ref\RetailBillingSystem.dll

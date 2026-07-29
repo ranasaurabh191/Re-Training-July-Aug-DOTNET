@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMICalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f0bce9eafc47da9942e2fa90ac690209259020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99fdd37161eb2126481a42dcbacb0526960411d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMICalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMICalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

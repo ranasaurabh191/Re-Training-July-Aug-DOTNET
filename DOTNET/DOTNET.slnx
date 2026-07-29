@@ -5,6 +5,7 @@
     <Project Path="ElectricityBillingSystem/ElectricityBillingSystem.csproj" Id="8f3a09cb-6849-433f-984c-81f4afc7ece0" />
     <Project Path="PayrollCalculator/PayrollCalculator.csproj" Id="f201ee05-4365-4e50-9ee1-39ca66b2dbd6" />
     <Project Path="RetailBillingSystem/RetailBillingSystem.csproj" />
+    <Project Path="ShippingCostCalculator/ShippingCostCalculator.csproj" Id="dcdc3064-ccf7-41bd-ae98-386af82f1377" />
     <Project Path="StudentMarksCalculator/StudentMarksCalculator.csproj" Id="7dca9001-d0ef-4e38-ad75-ab00d024fe13" />
     <Project Path="WarehouseVolumeCalculator/WarehouseVolumeCalculator.csproj" Id="5802e885-bfae-43cd-913f-92ddc0a18802" />
   </Folder>

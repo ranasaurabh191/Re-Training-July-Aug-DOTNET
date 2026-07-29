@@ -2,5 +2,6 @@
   <Folder Name="/Day1/">
     <Project Path="BMICalculator/BMICalculator.csproj" />
     <Project Path="RetailBillingSystem/RetailBillingSystem.csproj" />
+    <Project Path="WarehouseVolumeCalculator/WarehouseVolumeCalculator.csproj" Id="5802e885-bfae-43cd-913f-92ddc0a18802" />
   </Folder>
 </Solution>

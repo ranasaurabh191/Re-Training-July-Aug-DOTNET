@@ -12,6 +12,7 @@
     <Project Path="WarehouseVolumeCalculator/WarehouseVolumeCalculator.csproj" Id="5802e885-bfae-43cd-913f-92ddc0a18802" />
   </Folder>
   <Folder Name="/Day2/">
+    <Project Path="CalculatorApp/CalculatorApp.csproj" Id="8de3b83f-adac-4002-9cd2-41c23583845b" />
     <Project Path="FinancialCalculatorApp/FinancialCalculatorApp.csproj" Id="0d3970ec-5e32-4e7c-bec1-bff23facefa8" />
     <Project Path="GeometryCalculatorApp/GeometryCalculatorApp.csproj" Id="b91d5cbd-6bbd-43a7-bdd0-2fdc8a6378cb" />
     <Project Path="LibraryOrderSystem/LibraryOrderSystem.csproj" Id="3afbe61a-8d4d-4b68-8de3-fdfbe2f9d4f9" />

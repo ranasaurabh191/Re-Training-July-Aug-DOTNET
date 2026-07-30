@@ -3,6 +3,7 @@
     <Project Path="BankBalanceCalculator/BankBalanceCalculator.csproj" Id="7814b443-7e94-4624-91bd-db4e661c36c0" />
     <Project Path="BMICalculator/BMICalculator.csproj" />
     <Project Path="ElectricityBillingSystem/ElectricityBillingSystem.csproj" Id="8f3a09cb-6849-433f-984c-81f4afc7ece0" />
+    <Project Path="HospitalRegistrationSystem/HospitalRegistrationSystem.csproj" Id="a667a92c-1964-4b57-ac5a-da654d798752" />
     <Project Path="PayrollCalculator/PayrollCalculator.csproj" Id="f201ee05-4365-4e50-9ee1-39ca66b2dbd6" />
     <Project Path="RetailBillingSystem/RetailBillingSystem.csproj" />
     <Project Path="ShippingCostCalculator/ShippingCostCalculator.csproj" Id="dcdc3064-ccf7-41bd-ae98-386af82f1377" />

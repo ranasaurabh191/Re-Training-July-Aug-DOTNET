@@ -13,6 +13,7 @@
   </Folder>
   <Folder Name="/Day2/">
     <Project Path="FinancialCalculatorApp/FinancialCalculatorApp.csproj" Id="0d3970ec-5e32-4e7c-bec1-bff23facefa8" />
+    <Project Path="GeometryCalculatorApp/GeometryCalculatorApp.csproj" Id="b91d5cbd-6bbd-43a7-bdd0-2fdc8a6378cb" />
     <Project Path="LibraryOrderSystem/LibraryOrderSystem.csproj" Id="3afbe61a-8d4d-4b68-8de3-fdfbe2f9d4f9" />
     <Project Path="LogParserSystem/LogParserSystem.csproj" Id="c9b8f9de-3e3e-477d-8c22-63307b40e933" />
   </Folder>

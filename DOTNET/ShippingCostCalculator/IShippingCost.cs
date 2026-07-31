@@ -1,5 +1,5 @@
 ﻿
-namespace ShippingCostCalculator
+namespace Day1_ShippingCostCalculator
 {
     interface IShippingCost
     {

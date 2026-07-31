@@ -1,4 +1,4 @@
-﻿namespace ShippingCostCalculator
+﻿namespace Day1_ShippingCostCalculator
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace HospitalRegistrationSystem
+﻿namespace Day1_HospitalRegistrationSystem
 {
     internal class Program
     {

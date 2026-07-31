@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice Programs\\DOTNET\\RetailBillingSystem\\RetailBillingSystem.csproj",
-      "projectName": "RetailBillingSystem",
-      "projectPath": "D:\\Practice Programs\\DOTNET\\RetailBillingSystem\\RetailBillingSystem.csproj",
+      "projectUniqueName": "D:\\Practice Programs\\DOTNET\\RetailBillingSystem\\Day1_RetailBillingSystem.csproj",
+      "projectName": "Day1_RetailBillingSystem",
+      "projectPath": "D:\\Practice Programs\\DOTNET\\RetailBillingSystem\\Day1_RetailBillingSystem.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "D:\\Practice Programs\\DOTNET\\RetailBillingSystem\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-﻿namespace PayrollSystem
+﻿namespace Day1_PayrollCalculator
 {
     internal class Program
     {

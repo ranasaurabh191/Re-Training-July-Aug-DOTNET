@@ -1,5 +1,5 @@
 ﻿
-namespace PayrollSystem
+namespace Day1_PayrollCalculator
 {
     class Employee
     {

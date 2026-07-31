@@ -1,4 +1,4 @@
-﻿namespace StudentMarksCalculator
+﻿namespace Day1_StudentMarksCalculator
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace RetailBillingSystem
+﻿namespace Day1_RetailBillingSystem
 {
     internal class Program
     {

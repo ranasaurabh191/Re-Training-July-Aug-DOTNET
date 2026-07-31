@@ -1,4 +1,4 @@
-﻿namespace GeometryCalculatorApp
+﻿namespace Day2_GeometryCalculatorApp
 {
     internal class Program
     {

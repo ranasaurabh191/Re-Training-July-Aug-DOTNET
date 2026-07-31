@@ -1,4 +1,4 @@
-﻿namespace CalculatorApp
+﻿namespace Day2_CalculatorApp
 {
     internal class Program
     {

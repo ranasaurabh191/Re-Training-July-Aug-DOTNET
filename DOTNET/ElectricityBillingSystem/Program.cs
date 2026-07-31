@@ -1,4 +1,4 @@
-﻿namespace ElectricityBillingSystem
+﻿namespace Day1_ElectricityBillingSystem
 {
     class ResidentialCustomer : IBillCalculator
     {

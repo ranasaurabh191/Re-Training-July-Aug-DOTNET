@@ -1,4 +1,4 @@
-﻿namespace LogParserSystem
+﻿namespace Day2_LogParserSystem
 {
     internal class Program
     {

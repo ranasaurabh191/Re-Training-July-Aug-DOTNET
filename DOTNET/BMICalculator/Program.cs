@@ -1,4 +1,4 @@
-﻿namespace BMICalculator
+﻿namespace Day1_BMICalculator
 {
     class Program
     {

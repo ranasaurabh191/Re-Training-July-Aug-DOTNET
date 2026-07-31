@@ -1,6 +1,6 @@
 ﻿
 
-namespace ElectricityBillingSystem
+namespace Day1_ElectricityBillingSystem
 {
     interface IBillCalculator
     {

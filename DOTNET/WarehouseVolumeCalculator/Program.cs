@@ -1,5 +1,5 @@
 ﻿
-namespace WarehouseVolumeCalculator
+namespace Day1_WarehouseVolumeCalculator
 {
     class Program
     {

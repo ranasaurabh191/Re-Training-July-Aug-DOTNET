@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ShippingCostCalculator
+namespace Day1_ShippingCostCalculator
 {
     class StandardPackage : IShippingCost
     {

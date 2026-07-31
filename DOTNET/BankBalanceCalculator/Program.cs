@@ -1,5 +1,5 @@
 ﻿
-namespace BankBalanceCalculator
+namespace Day1_BankBalanceCalculator
 {
     class Program
     {

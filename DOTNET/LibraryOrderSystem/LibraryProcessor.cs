@@ -1,4 +1,4 @@
-﻿namespace LibraryOrderSystem
+﻿namespace Day2_LibraryOrderSystem
 {
     static class LibraryProcessor
     {

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice Programs\\DOTNET\\BMICalculator\\BMICalculator.csproj",
-      "projectName": "BMICalculator",
-      "projectPath": "D:\\Practice Programs\\DOTNET\\BMICalculator\\BMICalculator.csproj",
+      "projectUniqueName": "D:\\Practice Programs\\DOTNET\\BMICalculator\\Day1_BMICalculator.csproj",
+      "projectName": "Day1_BMICalculator",
+      "projectPath": "D:\\Practice Programs\\DOTNET\\BMICalculator\\Day1_BMICalculator.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "D:\\Practice Programs\\DOTNET\\BMICalculator\\obj\\",
       "projectStyle": "PackageReference",

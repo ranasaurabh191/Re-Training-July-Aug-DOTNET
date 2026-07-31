@@ -1,4 +1,4 @@
-﻿namespace CalculatorApp
+﻿namespace Day2_CalculatorApp
 {
     static class MathOperations
     {

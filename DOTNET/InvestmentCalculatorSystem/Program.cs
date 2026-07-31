@@ -1,4 +1,4 @@
-﻿namespace InvestmentCalculatorSystem
+﻿namespace Day1_InvestmentCalculatorSystem
 {
     internal class Program
     {
